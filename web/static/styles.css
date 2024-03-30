@@ -1,0 +1,27 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #343a40;
+    margin: 0;
+}
+.header {
+    background-color: #4184cc;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.container {
+    margin-top: 20px;
+}
+.input-group {
+    margin-bottom: 20px;
+}
+.button-container {
+    text-align: center;
+}
+.recommendation {
+    margin-top: 20px;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #007bff;
+}
